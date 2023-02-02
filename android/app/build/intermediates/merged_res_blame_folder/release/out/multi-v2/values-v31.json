@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.crafty_furniture_app-mergeReleaseResources-30:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/a95f58fbccf1c2c110621365f4d2a7e7/transformed/jetified-core-splashscreen-1.0.0-alpha01/res/values-v31/values-v31.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "475"
+                    }
+                }
+            ]
+        }
+    ]
+}

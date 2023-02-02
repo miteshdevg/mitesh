@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.iml" filepath="$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1492749514/MyApp.klarna_react-native-vector-drawable.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1605083919/MyApp.react-native-async-storage_async-storage.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/216235133/MyApp.react-native-community_checkbox.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.iml" filepath="$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.main.iml" filepath="$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/610350942/MyApp.react-native-fbsdk-next.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1245725943/MyApp.react-native-google-signin_google-signin.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1932895501/MyApp.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1734721845/MyApp.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1943582250/MyApp.react-native-splash-screen.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/520480524/MyApp.react-native-vector-icons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-248550051/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
