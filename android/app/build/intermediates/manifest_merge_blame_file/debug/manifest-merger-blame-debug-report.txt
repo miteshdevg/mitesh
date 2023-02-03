@@ -5,18 +5,18 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:6:5-8:41
+7-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:6:5-8:41
 8        android:minSdkVersion="21"
-8-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:7:9-35
+8-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:7:9-35
 9        android:targetSdkVersion="31" />
-9-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:8:9-38
+9-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:8:9-38
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:5:5-77
-11-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:5:22-75
+11-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:5:5-77
+11-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 13-->[com.facebook.flipper:flipper:0.125.0] /Users/mac/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
 13-->[com.facebook.flipper:flipper:0.125.0] /Users/mac/.gradle/caches/transforms-3/03f04a3f11198ce3b7c6cedb9b41266b/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
@@ -39,80 +39,80 @@
 21-->[com.android.installreferrer:installreferrer:1.1.2] /Users/mac/.gradle/caches/transforms-3/318328e3183509abffbee01fc4efd067/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
 22
 23    <application
-23-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:10:5-40:19
+23-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:10:5-40:19
 24        android:name="com.crafty_furniture_app.MainApplication"
-24-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:11:7-38
+24-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:11:7-38
 25        android:allowBackup="true"
-25-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:15:7-33
+25-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:15:7-33
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.7.0] /Users/mac/.gradle/caches/transforms-3/63a3df243d2d102452600006144a86df/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 27        android:debuggable="true"
 28        android:icon="@mipmap/ic_launcher"
-28-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:13:7-41
+28-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:13:7-41
 29        android:label="@string/app_name"
-29-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:12:7-39
+29-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:12:7-39
 30        android:roundIcon="@mipmap/ic_launcher_round"
-30-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:14:7-52
+30-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:14:7-52
 31        android:supportsRtl="true"
 31-->[com.facebook.android:facebook-android-sdk:15.2.0] /Users/mac/.gradle/caches/transforms-3/3e67579e6528625b6fa7c291f3cd7e9b/transformed/jetified-facebook-android-sdk-15.2.0/AndroidManifest.xml:16:18-44
 32        android:theme="@style/AppTheme"
-32-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:16:7-38
+32-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:16:7-38
 33        android:usesCleartextTraffic="true" >
-33-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/debug/AndroidManifest.xml:8:9-44
+33-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/debug/AndroidManifest.xml:8:9-44
 34        <activity
-34-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:36:8-85
+34-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:36:8-85
 35            android:name="com.facebook.react.devsupport.DevSettingsActivity"
-35-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:36:18-82
+35-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:36:18-82
 36            android:exported="false" />
-36-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/debug/AndroidManifest.xml:11:84-108
+36-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/debug/AndroidManifest.xml:11:84-108
 37        <activity
-37-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:17:7-26:18
+37-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:17:7-26:18
 38            android:name="com.crafty_furniture_app.SplashActivity"
-38-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:18:5-35
+38-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:18:5-35
 39            android:exported="true"
-39-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:21:11-34
+39-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:21:11-34
 40            android:label="@string/app_name"
-40-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:20:5-37
+40-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:20:5-37
 41            android:theme="@style/SplashTheme" >
-41-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:19:5-39
+41-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:19:5-39
 42            <intent-filter>
-42-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:22:5-25:21
+42-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:22:5-25:21
 43                <action android:name="android.intent.action.MAIN" />
-43-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:23:9-61
-43-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:23:17-58
+43-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:23:9-61
+43-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:23:17-58
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:24:9-69
-45-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:24:19-66
+45-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:24:9-69
+45-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:24:19-66
 46            </intent-filter>
 47        </activity>
 48        <activity
-48-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:27:7-35:18
+48-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:27:7-35:18
 49            android:name="com.crafty_furniture_app.MainActivity"
-49-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:28:9-37
+49-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:28:9-37
 50            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-50-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:30:9-118
+50-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:30:9-118
 51            android:exported="true"
-51-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:33:9-32
+51-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:33:9-32
 52            android:label="@string/app_name"
-52-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:29:9-41
+52-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:29:9-41
 53            android:launchMode="singleTask"
-53-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:31:9-40
+53-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:31:9-40
 54            android:windowSoftInputMode="adjustResize" >
-54-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:32:9-51
+54-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:32:9-51
 55        </activity> <!-- <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/> -->
 56        <meta-data
-56-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:38:9-107
+56-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:38:9-107
 57            android:name="com.facebook.sdk.ApplicationId"
-57-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:38:20-65
+57-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:38:20-65
 58            android:value="@string/facebook_app_id" />
-58-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:38:66-105
+58-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:38:66-105
 59        <meta-data
-59-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:39:9-111
+59-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:39:9-111
 60            android:name="com.facebook.sdk.ClientToken"
-60-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:39:20-63
+60-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:39:20-63
 61            android:value="@string/facebook_client_token" />
-61-->/Users/mac/Documents/Projects/crafty_Furniture_App/android/app/src/main/AndroidManifest.xml:39:64-109
+61-->/Users/mac/Documents/Projects/github_practice/New_Crafty_App/mitesh/android/app/src/main/AndroidManifest.xml:39:64-109
 62
 63        <activity
 63-->[com.facebook.android:facebook-common:15.2.0] /Users/mac/.gradle/caches/transforms-3/c7bb493a53016af2f8bbee03f043a702/transformed/jetified-facebook-common-15.2.0/AndroidManifest.xml:22:9-25:66

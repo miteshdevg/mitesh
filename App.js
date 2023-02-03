@@ -1,12 +1,17 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Provider } from 'react-redux';
-import { store } from './redux/store';
+
+import SplashScreen from 'react-native-splash-screen';
 import Navigation from './src/navigation/Navigation';
 
-export default App = () => {
+const App = () => {
+  useEffect(() => {
+    Platform.OS === 'android' ? SplashScreen.hide() : ""
+  }, []);
   return (
-    <Provider store={store}>
+
     <Navigation />
-    </Provider>
+
   )
 }
+export default App
