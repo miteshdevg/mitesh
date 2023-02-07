@@ -84,7 +84,7 @@ const RTK = () => {
                     data={array}
                     renderItem={renderItem}
                     onEndReached={() => {
-                        dispatch(setloader())
+                        // dispatch(setloader())
                         dispatch(apicalling(pages, array))
                     }}
                     ListFooterComponent={

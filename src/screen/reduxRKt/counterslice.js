@@ -20,6 +20,7 @@ export const counterslice = createSlice({
             state.value = state.value - 1
         },
         arrayPush: (state, actions) => {
+            state.loader = true
             console.log("inthe arrray piush method-==-=", actions.payload.data)
             switch (actions.payload.status) {
                 case 'success':
@@ -36,9 +37,9 @@ export const counterslice = createSlice({
 
 
         },
-        setloader: (state) => {
-            state.loader = true
-        }
+        // setloader: (state) => {
+          
+        // }
     },
 })
 export const apicalling = (stage, array) => async (dispatch) => {
