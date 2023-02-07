@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_crafty_Furniture_App_crafty_Furniture_AppTests : NSObject
+@end
+@implementation PodsDummy_Pods_crafty_Furniture_App_crafty_Furniture_AppTests
+@end

@@ -1,0 +1,6 @@
+module Pods_crafty_Furniture_App_crafty_Furniture_AppTests {
+  umbrella header "Pods-crafty_Furniture_App-crafty_Furniture_AppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
